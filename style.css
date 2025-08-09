@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+   text-align: center;
+}
+main{
+    background-color: darkgray;
+    width:480px;
+    text-align: center;
+    margin: auto;
+    border-radius: 5%;
+}
+#img{
+    border-radius: 50%;
+}
+.bor{
+    background-color: gray;
+    padding: 10px;
+    border-radius:5% ;
+    margin: 20px;
+}
