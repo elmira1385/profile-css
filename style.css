@@ -1,20 +1,50 @@
 body{
-    background-color: black;
+    background-color: #141414;
    text-align: center;
+   font-family:Arial, Helvetica, sans-serif;
 }
 main{
-    background-color: darkgray;
-    width:480px;
+    background-color: #1f1f1f;
+    width:550px;
     text-align: center;
     margin: auto;
-    border-radius: 5%;
+    border-radius: 3%;
+    padding :35px 40px 20px 40px; 
+    margin-top: 45px;
 }
 #img{
     border-radius: 50%;
+    width: 130px;
+    height: 130px;
 }
 .bor{
-    background-color: gray;
-    padding: 10px;
-    border-radius:5% ;
-    margin: 20px;
+    background-color: #333333;
+    padding: 0.5px ;
+    border-radius:15px;
+    margin: 25px 1px 25px 1px;
+    font-size:20px;
+    font-weight: bold;
+    color: aliceblue;
+    display: block;
+}
+
+h1 {
+    color:aliceblue;
+    margin-top:31px;
+    font-size:xx-large;
+}
+h2{
+color: #c5f82a;
+font-size:large;
+}
+h3{
+ color:aliceblue;
+margin-top:31px;
+margin-bottom:31px ;
+}
+footer p{
+    color:aliceblue;
+}
+footer a {
+color: lightblue;
 }
